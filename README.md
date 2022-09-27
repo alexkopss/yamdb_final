@@ -22,6 +22,7 @@ API for the Custom IMDB service. Allows you to work with:
 
 ## .env-file template:
 
+
 ```
 DB_ENGINE=django.db.backends.postgresql
 DB_NAME=postgres
