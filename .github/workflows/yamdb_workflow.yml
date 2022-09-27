@@ -46,7 +46,7 @@ jobs:
         with: 
           push: true
           file: ./api_yamdb/Dockerfile
-          tags: alastor047/yamdb_final:latest
+          tags: alexkopss/yamdb_final:latest
 
   deploy:
     runs-on: ubuntu-latest
